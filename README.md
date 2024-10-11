@@ -1,2 +1,1 @@
-# Branding
-PsychoDuck Tech Branding
+# PsychoDuck Tech Branding
